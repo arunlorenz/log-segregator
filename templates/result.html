@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Upload Result</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      margin: 2rem;
+    }
+
+    h1 {
+      text-align: center;
+    }
+
+    p {
+      line-height: 1.5;
+    }
+
+    .button {
+      background-color: #4CAF50;
+      color: white;
+      padding: 10px 20px;
+      border: none;
+      cursor: pointer;
+      border-radius: 5px;
+    }
+
+    .button:hover {
+      opacity: 0.8;
+    }
+
+    a {
+      text-decoration: none;
+      color: #007bff;
+    }
+
+    a:hover {
+      color: #0056b3;
+    }
+  </style>
+</head>
+<body>
+  <h1>Upload Result</h1>
+  <p>The error logs from the uploaded files have been merged into a single output file.</p>
+  <p>You can download the output file from the following link:</p>
+  <a href="{{ download_link }}">Download Output File</a>
+</body>
+</html>

@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Upload Log Files</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      margin: 2rem;
+    }
+
+    h1 {
+      text-align: center;
+    }
+
+    p {
+      line-height: 1.5;
+    }
+
+    .button {
+      background-color: #4CAF50;
+      color: white;
+      padding: 10px 20px;
+      border: none;
+      cursor: pointer;
+      border-radius: 5px;
+    }
+
+    .button:hover {
+      opacity: 0.8;
+    }
+
+    a {
+      text-decoration: none;
+      color: #007bff;
+    }
+
+    a:hover {
+      color: #0056b3;
+    }
+  </style>
+</head>
+<body>
+  <h1>Upload Log Files</h1>
+  <p>Select multiple log files:</p>
+  <form action="/upload" method="post" enctype="multipart/form-data">
+    <input type="file" name="files" multiple>
+    <input type="submit" value="Upload" class="button">
+  </form>
+</body>
+</html>

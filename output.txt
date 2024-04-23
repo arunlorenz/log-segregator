@@ -1,0 +1,19 @@
+2024-04-13 08:45:58 - Access point 2 - Error: Unable to establish connection with device 192.168.1.109
+2024-04-13 08:50:33 - Access point 3 - Device 192.168.1.110 disconnected due to error
+2024-04-13 08:45:58 - Access point 2 - Error: Unable to establish connection with device 192.168.1.109
+2024-04-13 08:50:33 - Access point 3 - Device 192.168.1.110 disconnected due to error
+2024-04-13 08:45:58 - Access point 2 - Error: Unable to establish connection with device 192.168.1.109
+2024-04-13 08:50:33 - Access point 3 - Device 192.168.1.110 disconnected due to error
+2024-04-13 08:45:58 - Access point 2 - Error: Unable to establish connection with device 192.168.1.109
+2024-04-13 08:50:33 - Access point 3 - Device 192.168.1.110 disconnected due to error
+2024-04-13 08:45:58 - Access point 2 - Error: Unable to establish connection with device 192.168.1.109
+2024-04-13 08:50:33 - Access point 3 - Device 192.168.1.110 disconnected due to error
+2024-04-13 08:45:58 - Access point 2 - Error: Unable to establish connection with device 192.168.1.109
+2024-04-13 08:50:33 - Access point 3 - Device 192.168.1.110 disconnected due to error
+2024-04-13 09:12:34 - Access point 1 - Error: Failed to authenticate device 192.168.1.103
+2024-04-13 10:23:57 - Access point 3 - Error: Connection timeout with device 192.168.1.106
+2024-04-13 12:10:49 - Access point 3 - Error: Unable to establish connection with device 192.168.1.112
+2024-04-13 12:44:38 - Access point 1 - Error: Authentication error for device 192.168.1.114
+2024-04-13 18:52:59 - Access point 1 - Error: Failed to authenticate device 192.168.1.135
+2024-04-14 04:42:34 - Access point 2 - Error: Unable to ping device 192.168.1.167
+2024-04-14 07:54:34 - Access point 1 - Error: Authentication error for device 192.168.1.177
